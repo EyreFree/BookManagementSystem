@@ -1,4 +1,4 @@
-# BookManagementSystem
-图书管理系统，控制台版，C语言
+# Book Management System
+鍥句功绠＄悊绯荤粺锛屾帶鍒跺彴鐗堬紝C璇█
 
 ![](assets/screenshot1.png)
