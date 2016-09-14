@@ -1,0 +1,160 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: rule - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPB637.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /FR"Release/" /Fp"Release/rule.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\about.c"
+"E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\home.c"
+"E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\main.c"
+"E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\mid.c"
+"E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\quit.c"
+"E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\reader.c"
+"E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\readme.c"
+"E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\rep.c"
+"E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\scan.c"
+"E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sec.c"
+"E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sorter.c"
+"E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\welcome.c"
+"E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\write.c"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPB637.tmp" 
+<h3>Output Window</h3>
+Compiling...
+about.c
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\about.c(6) : warning C4013: 'system' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\about.c(7) : warning C4013: 'line' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\about.c(8) : warning C4013: 'printf' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\about.c(26) : warning C4013: 'home' undefined; assuming extern returning int
+home.c
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\home.c(7) : warning C4013: 'system' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\home.c(8) : warning C4013: 'printf' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\home.c(11) : warning C4013: 'mid' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\home.c(68) : warning C4013: 'getch' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\home.c(75) : warning C4013: 'check' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\home.c(76) : warning C4013: 'sortscreen' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\home.c(77) : warning C4013: 'sec' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\home.c(78) : warning C4013: 'rep' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\home.c(79) : warning C4013: 'reader' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\home.c(80) : warning C4013: 'readme' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\home.c(81) : warning C4013: 'about' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\home.c(82) : warning C4013: 'quit' undefined; assuming extern returning int
+main.c
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\main.c(10) : warning C4013: 'welcome' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\main.c(11) : warning C4013: 'home' undefined; assuming extern returning int
+mid.c
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\mid.c(8) : warning C4013: 'printf' undefined; assuming extern returning int
+quit.c
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\quit.c(8) : warning C4013: 'system' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\quit.c(11) : warning C4013: 'printf' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\quit.c(12) : warning C4013: 'mid' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\quit.c(29) : warning C4013: 'getch' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\quit.c(34) : warning C4013: 'home' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\quit.c(39) : warning C4013: 'exit' undefined; assuming extern returning int
+reader.c
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\reader.c(15) : warning C4013: 'line' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\reader.c(18) : warning C4013: 'home' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\reader.c(120) : warning C4013: 'getch' undefined; assuming extern returning int
+readme.c
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\readme.c(6) : warning C4013: 'system' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\readme.c(7) : warning C4013: 'line' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\readme.c(8) : warning C4013: 'printf' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\readme.c(16) : warning C4013: 'home' undefined; assuming extern returning int
+rep.c
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\rep.c(15) : warning C4013: 'mid' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\rep.c(32) : warning C4013: 'getch' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\rep.c(37) : warning C4013: 'rep' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\rep.c(46) : warning C4013: 'line' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\rep.c(61) : warning C4013: 'home' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\rep.c(65) : warning C4013: 'repdel' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\rep.c(100) : warning C4013: 'repwrite' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\rep.c(187) : warning C4013: 'checker2' undefined; assuming extern returning int
+scan.c
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\rep.c(101) : warning C4716: 'repdel' : must return a value
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\rep.c(182) : warning C4716: 'repwrite' : must return a value
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\scan.c(16) : warning C4013: 'line' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\scan.c(19) : warning C4013: 'home' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\scan.c(22) : warning C4013: 'jump' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\scan.c(48) : warning C4013: 'getch' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\scan.c(52) : warning C4013: 'scan' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\scan.c(456) : warning C4013: 'write' undefined; assuming extern returning int
+sec.c
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\scan.c(38) : warning C4716: 'jump' : must return a value
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\scan.c(457) : warning C4716: 'scan' : must return a value
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sec.c(34) : warning C4013: 'line' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sec.c(36) : warning C4013: 'mid' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sec.c(44) : warning C4013: 'getch' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sec.c(48) : warning C4013: 'sec' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sec.c(50) : warning C4013: 'home' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sec.c(174) : warning C4101: 'Found' : unreferenced local variable
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sec.c(175) : warning C4101: 'Pages' : unreferenced local variable
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sec.c(450) : warning C4101: 'i' : unreferenced local variable
+sorter.c
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sorter.c(29) : warning C4013: 'mid' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sorter.c(86) : warning C4013: 'getch' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sorter.c(91) : warning C4013: 'home' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sorter.c(104) : warning C4013: 'sort' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sorter.c(166) : warning C4013: 'line' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sorter.c(201) : warning C4013: 'sorter' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sorter.c(202) : warning C4013: 'sortwrite' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sorter.c(398) : warning C4013: 'rep' undefined; assuming extern returning int
+welcome.c
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sorter.c(385) : warning C4716: 'sorter' : must return a value
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\sorter.c(456) : warning C4716: 'sortwrite' : must return a value
+write.c
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\write.c(14) : warning C4013: 'line' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\write.c(17) : warning C4013: 'home' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\write.c(71) : warning C4013: 'getch' undefined; assuming extern returning int
+E:\实验\C实验\实验—图书信息管理系统\图书信息管理系统[13最终注释版][2.0]\write.c(75) : warning C4013: 'scan' undefined; assuming extern returning int
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPBE63.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:no /pdb:"Release/rule.pdb" /machine:I386 /out:"Release/rule.exe" 
+".\Release\about.obj"
+".\Release\home.obj"
+".\Release\main.obj"
+".\Release\mid.obj"
+".\Release\quit.obj"
+".\Release\reader.obj"
+".\Release\readme.obj"
+".\Release\rep.obj"
+".\Release\scan.obj"
+".\Release\sec.obj"
+".\Release\sorter.obj"
+".\Release\welcome.obj"
+".\Release\write.obj"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPBE63.tmp"
+<h3>Output Window</h3>
+Linking...
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPBF7D.tmp" with contents
+[
+/nologo /o"Release/rule.bsc" 
+".\Release\about.sbr"
+".\Release\home.sbr"
+".\Release\main.sbr"
+".\Release\mid.sbr"
+".\Release\quit.sbr"
+".\Release\reader.sbr"
+".\Release\readme.sbr"
+".\Release\rep.sbr"
+".\Release\scan.sbr"
+".\Release\sec.sbr"
+".\Release\sorter.sbr"
+".\Release\welcome.sbr"
+".\Release\write.sbr"]
+Creating command line "bscmake.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPBF7D.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+rule.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
